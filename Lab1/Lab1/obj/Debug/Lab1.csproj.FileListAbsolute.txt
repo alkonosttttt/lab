@@ -1,0 +1,11 @@
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Анастасия\source\repos\lab\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
